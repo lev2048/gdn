@@ -6,13 +6,13 @@ gdn can turn process into daemon.
 
     gdn: run command as daemon
 
-    	<command>   run your command
-    	list        show running commands
-    	stop <proc>  stop a command by SIGTERM
-    	log <proc>   view log of command
+    <command>   run your command
+    list        show running commands
+    stop <proc>  stop a command by SIGTERM
+    log <proc>   view log of command
 
-    	help        show help
-    	version     show version
+    help        show help
+    version     show version
 
 ### Example
 
